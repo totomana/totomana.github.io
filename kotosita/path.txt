@@ -1,2 +1,4 @@
 https://totomana.github.io/kotosita/prof01.png
 https://totomana.github.io/kotosita/prof02.png
+https://totomana.github.io/kotosita/ic01.png
+https://totomana.github.io/kotosita/ic02.png
