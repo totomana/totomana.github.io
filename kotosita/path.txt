@@ -1,5 +1,8 @@
 https://totomana.github.io/kotosita/prof01.png
 https://totomana.github.io/kotosita/prof02.png
+https://totomana.github.io/kotosita/cutin01.png
+https://totomana.github.io/kotosita/cutin02.png
+https://totomana.github.io/kotosita/cutin03.png
 https://totomana.github.io/kotosita/ic01.png
 https://totomana.github.io/kotosita/ic02.png
 https://totomana.github.io/kotosita/ic03.png
