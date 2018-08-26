@@ -9,6 +9,7 @@ https://totomana.github.io/nemumu/lo_f_08.png
 https://totomana.github.io/nemumu/lo_f_09.png
 https://totomana.github.io/nemumu/lo_i_01.png
 https://totomana.github.io/nemumu/lo_i_02.png
+https://totomana.github.io/nemumu/lo_i_03.png
 https://totomana.github.io/nemumu/lo_i_10.png
 https://totomana.github.io/nemumu/lo_i_011.png
 https://totomana.github.io/nemumu/lo_p_01.png
@@ -19,3 +20,4 @@ https://totomana.github.io/nemumu/order00.png
 
 https://totomana.github.io/nemumu/loa_p_01.png
 https://totomana.github.io/nemumu/loa_i_01.png
+https://totomana.github.io/nemumu/loa_i_011.png
